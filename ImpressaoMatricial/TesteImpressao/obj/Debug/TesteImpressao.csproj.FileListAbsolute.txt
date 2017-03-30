@@ -1,0 +1,9 @@
+C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\obj\Debug\TesteImpressao.exe
+C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\obj\Debug\TesteImpressao.pdb
+C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\bin\Debug\TesteImpressao.exe
+C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\bin\Debug\TesteImpressao.pdb
+C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\bin\Debug\ImprimeTexto.dll
+C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\obj\Debug\TesteImpressao.Form1.resources
+C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\obj\Debug\TesteImpressao.Properties.Resources.resources
+C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\obj\Debug\TesteImpressao.csproj.GenerateResource.Cache

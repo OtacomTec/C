@@ -1,0 +1,8 @@
+D:\cds\dotnet\Componentes\ImprimeTexto\TesteImpressao\bin\Debug\TesteImpressao.exe
+D:\cds\dotnet\Componentes\ImprimeTexto\TesteImpressao\bin\Debug\TesteImpressao.pdb
+D:\cds\dotnet\Componentes\ImprimeTexto\TesteImpressao\obj\Debug\ResolveAssemblyReference.cache
+D:\cds\dotnet\Componentes\ImprimeTexto\TesteImpressao\obj\Debug\TesteImpressao.Form1.resources
+D:\cds\dotnet\Componentes\ImprimeTexto\TesteImpressao\obj\Debug\TesteImpressao.csproj.GenerateResource.Cache
+D:\cds\dotnet\Componentes\ImprimeTexto\TesteImpressao\obj\Debug\TesteImpressao.exe
+D:\cds\dotnet\Componentes\ImprimeTexto\TesteImpressao\obj\Debug\TesteImpressao.pdb
+D:\cds\dotnet\Componentes\ImprimeTexto\TesteImpressao\obj\Debug\TesteImpressao.Properties.Resources.resources

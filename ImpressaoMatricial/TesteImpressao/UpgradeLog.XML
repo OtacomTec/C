@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TesteImpressao">
+</Property><Property Name="Solution File" Value="C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\TesteImpressao.sln">
+</Property><Property Name="User Options File" Value="C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\TesteImpressao.suo">
+</Property><Property Name="Date" Value="quarta-feira, 29 de janeiro de 2014">
+</Property><Property Name="Time" Value="10:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TesteImpressao.sln" Description="File successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\TesteImpressao.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TesteImpressao.suo" Description="File successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\TesteImpressao.suo">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="TesteImpressao.csproj" Description="Project file successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\TesteImpressao.csproj">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="TesteImpressao.csproj.user" Description="Project user file successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\TesteImpressao.csproj.user">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="Form1.cs" Description="File successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="App.ico" Description="File successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="Form1.resx" Description="File successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\mac\Desktop\ImpressaoMatricial\TesteImpressao\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="TesteImpressao.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TesteImpressao" Source="TesteImpressao.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TesteImpressao.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TesteImpressao.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TesteImpressao" Source="TesteImpressao.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

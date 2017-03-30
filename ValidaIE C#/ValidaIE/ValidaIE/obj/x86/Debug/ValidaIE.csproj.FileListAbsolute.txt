@@ -1,0 +1,7 @@
+C:\Users\deise\Documents\Apostilas e Exemplos C# .NET\ValidaIE\ValidaIE\ValidaIE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\deise\Documents\Apostilas e Exemplos C# .NET\ValidaIE\ValidaIE\ValidaIE\bin\Debug\ValidaIE.exe
+C:\Users\deise\Documents\Apostilas e Exemplos C# .NET\ValidaIE\ValidaIE\ValidaIE\bin\Debug\ValidaIE.pdb
+C:\Users\deise\Documents\Apostilas e Exemplos C# .NET\ValidaIE\ValidaIE\ValidaIE\obj\x86\Debug\ValidaIE.exe
+C:\Users\deise\Documents\Apostilas e Exemplos C# .NET\ValidaIE\ValidaIE\ValidaIE\obj\x86\Debug\ValidaIE.pdb
+C:\Users\mac\Desktop\ValidaIE\ValidaIE\ValidaIE\obj\x86\Debug\ValidaIE.exe
+C:\Users\mac\Desktop\ValidaIE\ValidaIE\ValidaIE\obj\x86\Debug\ValidaIE.pdb

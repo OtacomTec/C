@@ -1,0 +1,21 @@
+*** TesteImpressão ***
+======================
+
+Este programa tem como objetivo possibilitar a utilização de impressoras matriciais em modo
+texto através de aplicações escritas na plataforma .Net
+Criamos um componente chamado ImprimeTexto, que é uma classe a ser instanciada na aplicação,
+que permite, entre outras coisas, escolher a porta da impressora (LPT1,LPT2), os tipos de 
+letras (Normal, Negrito, Expandido, Condensado), ou qualquer outra funcionalidade oferecida
+por impressoras matriciais em modo texto.
+O exemplo mostra de maneira simples, como é possível a utilização deste componentes. 
+Já temos casos de uso em WebServices, Aplicações Web e Windows Forms.
+Este componentes poderá ser distribuido e utilizado sem qualquer custo, desde que os direitos
+autorais sejam preservados.
+
+Este componente foi desenvolvido em C# por Carlos dos Santos, da empresa CDS Informática Ltda,
+em 09 de junho de 2008.
+
+======================
+Carlos dos Santos
+09 de junho de 2008.
+
