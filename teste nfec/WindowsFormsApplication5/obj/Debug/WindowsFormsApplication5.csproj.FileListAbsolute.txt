@@ -1,0 +1,9 @@
+C:\Users\Marcos\Desktop\teste nfec\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Marcos\Desktop\teste nfec\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Marcos\Desktop\teste nfec\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Marcos\Desktop\teste nfec\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\teste nfec\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Marcos\Desktop\teste nfec\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Marcos\Desktop\teste nfec\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\teste nfec\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Marcos\Desktop\teste nfec\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
