@@ -1,0 +1,10 @@
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\bin\Debug\ClientPatientManagement.Core.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\bin\Debug\ClientPatientManagement.Core.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\bin\Debug\FrontDesk.SharedKernel.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\bin\Debug\StructureMap.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\bin\Debug\FrontDesk.SharedKernel.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\bin\Debug\StructureMap.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\bin\Debug\StructureMap.xml
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\obj\Debug\ClientPatientManagement.Core.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\obj\Debug\ClientPatientManagement.Core.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.Core\obj\Debug\ClientPatientManagement.Core.pdb

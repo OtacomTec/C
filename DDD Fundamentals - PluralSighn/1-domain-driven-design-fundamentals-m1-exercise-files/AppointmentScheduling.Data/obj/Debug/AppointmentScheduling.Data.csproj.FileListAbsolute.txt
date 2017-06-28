@@ -1,0 +1,16 @@
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\AppointmentScheduling.Data.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\AppointmentScheduling.Data.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\AppointmentScheduling.Core.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\FrontDesk.SharedKernel.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\StructureMap.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\AppointmentScheduling.Core.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\FrontDesk.SharedKernel.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\StructureMap.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\bin\Debug\StructureMap.xml
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\obj\Debug\AppointmentScheduling.Data.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\obj\Debug\AppointmentScheduling.Data.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Data\obj\Debug\AppointmentScheduling.Data.pdb

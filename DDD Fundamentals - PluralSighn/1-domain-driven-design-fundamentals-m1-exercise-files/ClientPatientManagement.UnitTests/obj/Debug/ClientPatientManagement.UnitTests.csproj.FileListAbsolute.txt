@@ -1,0 +1,1 @@
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\ClientPatientManagement.UnitTests\obj\Debug\ClientPatientManagement.UnitTests.csprojResolveAssemblyReference.cache

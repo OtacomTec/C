@@ -1,0 +1,10 @@
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\bin\Debug\AppointmentScheduling.Core.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\bin\Debug\AppointmentScheduling.Core.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\bin\Debug\FrontDesk.SharedKernel.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\bin\Debug\StructureMap.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\bin\Debug\FrontDesk.SharedKernel.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\bin\Debug\StructureMap.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\bin\Debug\StructureMap.xml
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\obj\Debug\AppointmentScheduling.Core.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\obj\Debug\AppointmentScheduling.Core.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\AppointmentScheduling.Core\obj\Debug\AppointmentScheduling.Core.pdb

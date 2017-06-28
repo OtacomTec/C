@@ -1,0 +1,15 @@
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\SharedDatabaseManagement.dll.config
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\SharedDatabaseManagement.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\SharedDatabaseManagement.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\FrontDesk.SharedKernel.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\StructureMap.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\FrontDesk.SharedKernel.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\StructureMap.pdb
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\bin\Debug\StructureMap.xml
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\obj\Debug\VetOffice.SharedDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\obj\Debug\SharedDatabaseManagement.dll
+C:\Users\Marcos\Desktop\domain-driven-design-fundamentals\1-domain-driven-design-fundamentals-m1-exercise-files\SharedDatabaseManagement\obj\Debug\SharedDatabaseManagement.pdb
