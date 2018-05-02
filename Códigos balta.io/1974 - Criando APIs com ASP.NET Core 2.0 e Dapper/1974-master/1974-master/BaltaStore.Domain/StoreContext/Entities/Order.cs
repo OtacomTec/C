@@ -11,7 +11,7 @@ namespace BaltaStore.Domain.StoreContext.Entities
     {
         private readonly IList<OrderItem> _items;
         private readonly IList<Delivery> _deliveries;
-        
+
         public Order(Customer customer)
         {
             Customer = customer;
